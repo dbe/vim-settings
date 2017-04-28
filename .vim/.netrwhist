@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/dbe/code/wunder/arenaApi'
+let g:netrw_dirhist_2='/Users/dbe/code/wunder/arenaApi/app'
+let g:netrw_dirhist_3='/Users/dbe/code/wunder/arenaApi/app/models'
+let g:netrw_dirhist_4='/Users/dbe/code/wunder/offlineDev'
+let g:netrw_dirhist_5='/Users/dbe/code/500friends'
+let g:netrw_dirhist_6='/Users/dbe/code/log_parser'
+let g:netrw_dirhist_7='/Users/dbe/code'
+let g:netrw_dirhist_8='/Users/dbe/code/log_parser'
